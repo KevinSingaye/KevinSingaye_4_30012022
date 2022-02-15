@@ -379,7 +379,7 @@
     }
     
     .bgc-atomic-tangerine {
-        background-color: #F3976C;
+        background-color: #0e0704;
     }
     
     @media (min-width: 768px) {
@@ -801,7 +801,7 @@
     }
     
     .bgc-atomic-tangerine {
-        background-color: #F3976C;
+        background-color: #6d0d13;
     }
     
     .tc-white {
@@ -809,7 +809,7 @@
     }
     
     .btn-atomic-tangerine {
-        background: #F3976C;
+        background: #0e0704;
         color: #FFFFFF!important;
     }
     
@@ -856,7 +856,8 @@
     }
     
     .col-sm-6 p {
-        font-size: 12px;
+        font-size: 16px;
+        margin-left: -130px;
     }
     
     @media (max-width: 1024px) {
