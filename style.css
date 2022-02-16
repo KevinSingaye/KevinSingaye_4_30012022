@@ -536,7 +536,11 @@
     
     .col-sm-6 {
         float: none;
-        width: 60%;
+        width: 70%;
+        margin: 0 auto;
+    }
+    
+    .col-sm-6 img {
         margin: 0 auto;
     }
     
@@ -857,7 +861,6 @@
     
     .col-sm-6 p {
         font-size: 16px;
-        margin-left: -130px;
     }
     
     @media (max-width: 1024px) {
