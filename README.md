@@ -2,7 +2,7 @@ Projet 4 du parcours Développeur web d'OpenClassrooms : Optimiser un site web e
 
 ![15553465193309_icon-above-font](https://user-images.githubusercontent.com/75949789/205197840-d833fca7-fb9e-450a-abe1-167d63ad1bd9.png)
 
-Compétences évaluées :
+# Compétences évaluées :
 
 - Réaliser une recherche des bonnes pratiques en développement web
 - Assurer l'accessibilité d'un site web
