@@ -1,3 +1,5 @@
+Projet 4 du parcours Développeur web d'OpenClassrooms : Optimiser un site web existant.
+
 Compétences évaluées :
 
 - Réaliser une recherche des bonnes pratiques en développement web
