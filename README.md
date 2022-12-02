@@ -5,3 +5,6 @@ Compétences évaluées :
 - Écrire un code HTML et CSS maintenable
 - Optimiser la taille et la vitesse d’un site web
 - Optimiser le référencement d'un site web
+
+
+Lien du site optimisé https://kevinsingaye.github.io/Projet4-LaChouetteAgence/
