@@ -12,3 +12,20 @@ Projet 4 du parcours Développeur web d'OpenClassrooms : Optimiser un site web e
 
 
 Lien du site optimisé https://kevinsingaye.github.io/Projet4-LaChouetteAgence/
+
+===========================================================
+
+/ English /
+
+Project 4 of the OpenClassrooms Web Developer course: Optimizing an existing website.
+
+# Skills assessed:
+
+- Conduct a research on the best practices in web development
+- Ensure the accessibility of a website
+- Write maintainable HTML and CSS code
+- Optimize the size and speed of a website
+- Optimize the SEO of a website
+
+
+Optimized site link https://kevinsingaye.github.io/Projet4-LaChouetteA
